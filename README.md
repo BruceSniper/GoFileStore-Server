@@ -1,5 +1,5 @@
 # 基于golang实现的一种分布式云存储服务
-![GitHub last commit](https://img.shields.io/github/last-commit/brucesniper/FileStore-Server)
+![GitHub last commit](https://img.shields.io/github/last-commit/brucesniper/GoFileStore-Server)
 ### 技术栈
 * Golang
 * Redis
