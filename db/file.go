@@ -1,7 +1,7 @@
 package db
 
 import (
-	mydb "FileStore-Server/db/mysql"
+	mydb "GoFileStore-Server/db/mysql"
 	"database/sql"
 	"fmt"
 )

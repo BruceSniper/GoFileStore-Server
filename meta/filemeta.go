@@ -1,7 +1,7 @@
 package meta
 
 import (
-	mydb "FileStore-Server/db"
+	mydb "GoFileStore-Server/db"
 	"sort"
 )
 

@@ -1,7 +1,7 @@
 package mysql
 
 import (
-	cfg "FileStore-Server/config"
+	cfg "GoFileStore-Server/config"
 	"database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"

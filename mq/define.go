@@ -1,7 +1,7 @@
 package mq
 
 import (
-	cmn "FileStore-Server/common"
+	cmn "GoFileStore-Server/common"
 )
 
 // TransferData : 将要写到rabbitmq的数据的结构体

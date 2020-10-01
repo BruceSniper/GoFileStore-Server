@@ -1,7 +1,7 @@
 package ceph
 
 import (
-	cfg "FileStore-Server/config"
+	cfg "GoFileStore-Server/config"
 	"gopkg.in/amz.v1/aws"
 	"gopkg.in/amz.v1/s3"
 )

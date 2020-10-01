@@ -1,7 +1,7 @@
 package mq
 
 import (
-	"FileStore-Server/config"
+	"GoFileStore-Server/config"
 	"github.com/streadway/amqp"
 	"log"
 )

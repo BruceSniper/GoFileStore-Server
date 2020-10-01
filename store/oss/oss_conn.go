@@ -1,7 +1,7 @@
 package oss
 
 import (
-	cfg "FileStore-Server/config"
+	cfg "GoFileStore-Server/config"
 	"fmt"
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 )

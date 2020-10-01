@@ -1,10 +1,10 @@
 package main
 
 import (
-	"FileStore-Server/config"
-	dblayer "FileStore-Server/db"
-	"FileStore-Server/mq"
-	"FileStore-Server/store/oss"
+	"GoFileStore-Server/config"
+	dblayer "GoFileStore-Server/db"
+	"GoFileStore-Server/mq"
+	"GoFileStore-Server/store/oss"
 	"bufio"
 	"encoding/json"
 	"log"

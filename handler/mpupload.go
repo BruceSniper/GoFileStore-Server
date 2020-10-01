@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"FileStore-Server/util"
+	"GoFileStore-Server/util"
 	"fmt"
 	"math"
 	"net/http"
@@ -13,8 +13,8 @@ import (
 
 	"github.com/garyburd/redigo/redis"
 
-	rPool "FileStore-Server/cache/redis"
-	dblayer "FileStore-Server/db"
+	rPool "GoFileStore-Server/cache/redis"
+	dblayer "GoFileStore-Server/db"
 )
 
 // MultipartUploadInfo : 初始化信息

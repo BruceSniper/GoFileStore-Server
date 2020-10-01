@@ -1,8 +1,8 @@
 package handler
 
 import (
-	dblayer "FileStore-Server/db"
-	"FileStore-Server/util"
+	dblayer "GoFileStore-Server/db"
+	"GoFileStore-Server/util"
 	"fmt"
 	"net/http"
 	"time"

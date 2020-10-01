@@ -1,9 +1,8 @@
 package main
 
 import (
-	// "filestore-server/assets"
-	cfg "FileStore-Server/config"
-	"FileStore-Server/handler"
+	cfg "GoFileStore-Server/config"
+	"GoFileStore-Server/handler"
 	"fmt"
 	"net/http"
 )

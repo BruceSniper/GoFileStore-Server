@@ -1,14 +1,14 @@
 package handler
 
 import (
-	cmn "FileStore-Server/common"
-	cfg "FileStore-Server/config"
-	dblayer "FileStore-Server/db"
-	"FileStore-Server/meta"
-	"FileStore-Server/mq"
-	"FileStore-Server/store/ceph"
-	"FileStore-Server/store/oss"
-	"FileStore-Server/util"
+	cmn "GoFileStore-Server/common"
+	cfg "GoFileStore-Server/config"
+	dblayer "GoFileStore-Server/db"
+	"GoFileStore-Server/meta"
+	"GoFileStore-Server/mq"
+	"GoFileStore-Server/store/ceph"
+	"GoFileStore-Server/store/oss"
+	"GoFileStore-Server/util"
 	"encoding/json"
 	"fmt"
 	"io"

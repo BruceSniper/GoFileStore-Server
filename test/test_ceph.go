@@ -1,7 +1,7 @@
 package main
 
 import (
-	"FileStore-Server/store/ceph"
+	"GoFileStore-Server/store/ceph"
 	"fmt"
 	"os"
 )
